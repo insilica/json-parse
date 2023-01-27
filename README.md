@@ -1,5 +1,7 @@
 # json-parse
 
+[![Clojars Project](https://img.shields.io/clojars/v/co.insilica/json-parse.svg)](https://clojars.org/co.insilica/json-parse)
+
 Convert XML to JSON in Clojure
 
 ## Usage
